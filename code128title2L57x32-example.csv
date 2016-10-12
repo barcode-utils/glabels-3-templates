@@ -1,0 +1,7 @@
+code,title,"example of not used column"
+2L_LONG,"2L two line long title long long title",""
+2L_MULTILINE,"MultiLine
+Comment",
+2L_LONG_2nd,"2nd 2L two line long title long long title","garbage in ignored column"
+2L_MULTILINE_2nd,"2nd MultiLine
+Comment","another garbage in ignored column"
