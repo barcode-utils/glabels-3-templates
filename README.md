@@ -72,14 +72,14 @@ You can similarily download `.csv` data from many other places , like your [Airt
 
 ## Templates
 
-Currently I [publish here Airtable base](https://airtable.com/shrr8sIa3cMKpO4b9) consisting `glabels-3-templates` table.
+Currently I [publish here Airtable base](https://airtable.com/shrr8sIa3cMKpO4b9) consisting `glabels-3-templates` table - [here is Gallery view of `glabels-3-templates` table with previews](https://airtable.com/shrnM0shPlthoFrZo).
 
 Less updates copy (thanks [csv2md online converter][csv2md] !):
 
-| glabels template            | width | height | type of stickers originally used | lines of title | prefix for csv filenames using this template | 
-|-----------------------------|-------|--------|----------------------------------|----------------|----------------------------------------------| 
-| code128title57x32.glabels   | 57mm  | 32mm   | Dymo_S0722540_11354              | 1L             | code128title57x32                            | 
-| code128title2L57x32.glabels | 57mm  | 32mm   | Dymo_S0722540_11354              | 2L             | code128title2L57x32                          | 
+| glabels template            | width | height | type of stickers originally used | lines of title | prefix for csv filenames using this template | Rendering Example |
+|-----------------------------|-------|--------|----------------------------------|----------------|----------------------------------------------|------------------------------|
+| code128title57x32.glabels   | 57mm  | 32mm   | Dymo_S0722540_11354              | 1L             | code128title57x32                            | ![rendering preview](example_renderings/code128title57x32-example.png) |
+| code128title2L57x32.glabels | 57mm  | 32mm   | Dymo_S0722540_11354              | 2L             | code128title2L57x32                          | ![rendreing preview](example_renderings/code128title2L57x32-example.png) |
 
 
 [glabels]: https://github.com/jimevins/glabels
