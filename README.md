@@ -72,7 +72,7 @@ You can similarily download `.csv` data from many other places , like your [Airt
 
 ## Templates
 
-Currently I [publish here Airtable base](https://airtable.com/shrr8sIa3cMKpO4b9) consisting `glabels-3-templates` table - [here is Gallery view of `glabels-3-templates` table with previews](https://airtable.com/shrnM0shPlthoFrZo).
+Currently I [publish here Airtable base](https://airtable.com/shrr8sIa3cMKpO4b9/tblYrrV3xMs7DL4kO/viwVBwkYcI0a9uCwl) consisting `glabels-3-templates` table - [here is Gallery view of `glabels-3-templates` table with previews](https://airtable.com/shrnM0shPlthoFrZo).
 
 Less updates copy (thanks [csv2md online converter][csv2md] !):
 
