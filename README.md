@@ -76,11 +76,14 @@ Currently I [publish here Airtable base](https://airtable.com/shrr8sIa3cMKpO4b9/
 
 Less updates copy (thanks [csv2md online converter][csv2md] !):
 
-| glabels template            | width | height | type of stickers originally used | lines of title | prefix for csv filenames using this template | Rendering Example |
-|-----------------------------|-------|--------|----------------------------------|----------------|----------------------------------------------|------------------------------|
-| code128title57x32.glabels   | 57mm  | 32mm   | Dymo_S0722540_11354              | 1L             | code128title57x32                            | ![rendering preview](example_renderings/code128title57x32-example.png) |
-| code128title2L57x32.glabels | 57mm  | 32mm   | Dymo_S0722540_11354              | 2L             | code128title2L57x32                          | ![rendreing preview](example_renderings/code128title2L57x32-example.png) |
-
+| glabels template                 | width | height | type of stickers originally used | lines of title | orientation | prefix for csv filenames using this template | barcode_type       | Rendered Example                                                                                               |
+|----------------------------------|-------|--------|----------------------------------|----------------|-------------|----------------------------------------------|--------------------|----------------------------------------------------------------------------------------------------------------|
+| code128title57x32.glabels        | 57mm  | 32mm   | Dymo_S0722540_11354              | 1L             | Portrait    | code128title57x32                            | Code128            |  ![rendering preview](example_renderings/code128title57x32-example.png) |     |
+| code128title2L57x32.glabels      | 57mm  | 32mm   | Dymo_S0722540_11354              | 2L             | Portrait    | code128title2L57x32                          | Code128            |  ![rendreing preview](example_renderings/code128title2L57x32-example.png) |
+| I2of5title57x32CablesL.glabels   | 57mm  | 32mm   | Dymo_S0722540_11354              | 1L             | Landscape   | I2of5title57x32Cables                        | Interleaved 2 of 5 |                                                                                                                |
+| I2of5title57x32CablesP.glabels   | 57mm  | 32mm   | Dymo_S0722540_11354              | 1L             | Portrait    | I2of5title57x32Cables                        | Interleaved 2 of 5 |                                                                                                                |
+| code128title57x32CablesL.glabels | 57mm  | 32mm   | Dymo_S0722540_11354              | 1L             | Landscape   | code128title57x32Cables                      | Code128            |                                                                                                                |
+| code128title57x32CablesP.glabels | 57mm  | 32mm   | Dymo_S0722540_11354              | 1L             | Portrait    | code128title57x32Cables                      | Code128            |                                                                                                                |
 
 [glabels]: https://github.com/jimevins/glabels
 [glabels-3]: https://github.com/jimevins/glabels
